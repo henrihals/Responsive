@@ -2,4 +2,4 @@
 
 Apprentissage de @media
 
-Lien de l'URL : 
+Lien de l'URL : https://henrihals.github.io/Responsive/
